@@ -41,9 +41,8 @@ This project demonstrates practical application of password security concepts, G
 1. Clone or download this repository
 2. Open terminal in the project folder
 3. Run the command:
-
-```bash
-  ```
+   ``` python filename.py
+   ```
 Example Output
 Input: MyName@2024
 Output Includes:
